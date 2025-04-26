@@ -133,7 +133,7 @@ ALTER INDEX ALL ON dbo.MIH22 REBUILD;
 
 # Medicare Inpatients Hospitals - 2022 Power BI Dashboard
 
-
+![image alt](https://github.com/rohan2891/Medicare-Inpatient-Dataset-Summary-Insights/blob/2f60cd55cfea9a446c34b8ff949747025060fb67/Medicare%20Inpatient%20Dashboard.png)
 Dashboard Summary:
 
 ## 1. KPIs at a Glance
